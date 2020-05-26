@@ -1,6 +1,10 @@
 # CloseAI
 CloseAI is a deep reinforcement learning agent for Atari games, course project of CS420.
 
+### Introduction
+
+Prior Dueling DQN
+
 ## Result
 
 | Environment             | Scores    |
@@ -12,37 +16,8 @@ CloseAI is a deep reinforcement learning agent for Atari games, course project o
 | KrullNoFrameskip-v4     | 11135.0   |
 
 ## Gallery
-<table>
-<tr>
-    <td>
-        <video width="320" height="240" controls>
-        <source src="result/video/PongNoFrameskip-v4.mp4" type="video/mp4">
-        </video>
-    </td>
-    <td>
-    	<video width="320" height="240" controls>
-          <source src="result/video/FreewayNoFrameskip-v4.mp4" type="video/mp4">
-        </video>
-    </td>
-    <td>
-    	<video width="320" height="240" controls>
-          <source src="result/video/AtlantisNoFrameskip-v4.mp4" type="video/mp4">
-        </video>
-    </td>
-    <td>
-    	<video width="320" height="240" controls>
-          <source src="result/video/TutankhamNoFrameskip-v4.mp4" type="video/mp4">
-        </video>
-    </td>
-    <td>
-    	<video width="320" height="240" controls>
-          <source src="result/video/KrullNoFrameskip-v4.mp4" type="video/mp4">
-        </video>
-    </td>
-</tr>
-</table>
 
-
-
-
+|                   Atlantis                   |                   Freeway                   |                     Krull                     |                   Pong                   |                   Tutankham                   |
+| :------------------------------------------: | :-----------------------------------------: | :-------------------------------------------: | :--------------------------------------: | :-------------------------------------------: |
+| ![](result/webp/AtlantisNoFrameskip-v4.webp) | ![](result/webp/FreewayNoFrameskip-v4.webp) | ![](result/webp/KrullNoFrameskip-v4.mp4.webp) | ![](result/webp/PongNoFrameskip-v4.webp) | ![](result/webp/TutankhamNoFrameskip-v4.webp) |
 
