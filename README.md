@@ -11,9 +11,9 @@ Prior Dueling DQN
 | ----------------------- | --------- |
 | PongNoFrameskip-v4      | 20.0      |
 | FreewayNoFrameskip-v4   | 30.5      |
-| AtlantisNoFrameskip-v4  | 2705425.0 |
+| AtlantisNoFrameskip-v4  | 2,705,425.0 |
 | TutankhamNoFrameskip-v4 | 265.3     |
-| KrullNoFrameskip-v4     | 11135.0   |
+| KrullNoFrameskip-v4     | 11,135.0   |
 
 ## Gallery
 
